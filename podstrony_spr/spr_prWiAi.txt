@@ -1,5 +1,0 @@
-do tekstu dodac pogrubienie // <b></b>
-		podkreslenie // <u></u>
-		indeksy// dolny -> <sub></sub> // gorny-> <sup></sup>
-
-stworzyc i wstawic logo
